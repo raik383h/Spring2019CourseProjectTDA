@@ -14,4 +14,4 @@ Install the necessary packages to run the project from that directory with the c
 Run the UI project by typing `ng serve`. This command launches the server, watches your files, and rebuilds the app as you make changes to those files. Navigate to `http://localhost:4200/` to see your running front-end.
 
 # Running the API Project
-Open the `TDAProject.sln` solution file in Visual Studio. Right-click the Web project, and hit "Set as StartUp Project". Then hit the green run buttom in the toolbar.
+Open the `TDAProject.sln` solution file in Visual Studio. Right-click the Web project, and hit "Set as StartUp Project". Then hit the green run button in the toolbar. 
