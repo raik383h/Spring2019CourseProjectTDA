@@ -1,7 +1,7 @@
 # Spring2019CourseProjectTDA
 The RAIK383H course project for TD Ameritrade during Spring semester 2019.
 
-# Running the Project
+# Running the UI Project
 Make sure you have Node installed on your computer. You can test this by typing `node -v` in a terminal (we recommend either Git Base or Powershell for Windows). You should have version 8.9.x or 10.x.x installed. If the command is not recognized or you have an older version, download and install NodeJS from [here](https://nodejs.org/en/).  
 
 Ensure you have npm installed--this should be installed already if NodeJS is installed. You can verify by typing `npm -v` in a terminal. You should have at least v5.5.1 installed.
@@ -12,3 +12,5 @@ Navigate to the project using the terminal, and then go to `TDAProject > app > t
 Install the necessary packages to run the project from that directory with the command `npm install`.
 
 Run the UI project by typing `ng serve`. This command launches the server, watches your files, and rebuilds the app as you make changes to those files. Navigate to `http://localhost:4200/` to see your running front-end.
+
+# Running the API Project
