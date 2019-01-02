@@ -15,3 +15,5 @@ Navigate to the project using the terminal, and then go to `app > tda-project-ui
 Install the necessary packages to run the project from that directory with the command `npm install`.
 
 Run the UI project by typing `ng serve`. This command launches the server, watches your files, and rebuilds the app as you make changes to those files. Navigate to `http://localhost:4200/` to see your running front-end.
+
+For editing the Angular front-end, we recommend using Visual Studio Code.
