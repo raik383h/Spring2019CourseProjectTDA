@@ -40,7 +40,7 @@ Run `git clone https://github.com/raik383h/Spring2019CourseProjectTDA.git`. This
 
 Run `cd Spring2019CourseProjectTDA`.
 
-Run `git remote remote`. This disconnects your copy of the repository from the original repository.
+Run `git remote remove origin`. This disconnects your copy of the repository from the original repository.
 
 Create a private repository under your account on GitHub. Name it `Spring2019CourseProjectTDA`.
 
