@@ -17,7 +17,7 @@ Install the necessary packages to run the project from that directory with the c
 
 Install the Angular command line interface with the command `npm install -g @angular/cli`. You may need to restart your terminal to use the `ng` command.
 
-Add npm global modules to your path. On Windows 10, search "path", which should bring up an option to "Edit the system environment variables". Select Environment Variables > Path > Edit. Select New and add C:\Users\<username>\AppData\Roaming\npm .
+Add npm global modules to your path. This step may not be necessary if you've already added npm to your path according to the above steps. Run `ng` in your terminal to see if it already works. On Windows 10, search "path", which should bring up an option to "Edit the system environment variables". Select Environment Variables > Path > Edit. Select New and add C:\Users\<username>\AppData\Roaming\npm .
 
 Run the UI project by typing `ng serve`. This command launches the server, watches your files, and rebuilds the app as you make changes to those files. Navigate to `http://localhost:4200/` to see your running front-end.
 
@@ -56,7 +56,7 @@ Go to Settings > Collaborators in your GitHub repo (https://github.com/<username
 
 Add each of your teammates' GitHub usernames and click "Add Collaborator". This sends an invitation to each team member. Team members will need to accept their invitations. If an invitation does not go through, you may need to cancel it and resend it.
 
-Once your team members have been added as collaborators, they can clone the repo to their machines by running `git clone https://github.com/<username>/Spring2019CourseProjectTDA.git`.
+Once your team members have been added as collaborators, they can clone the repo to their machines by running `git clone https://github.com/<username>/Spring2019CourseProjectTDA.git` (note that <username> is the username of the person who created the private repo).
 
 You should also add MatthewMeacham, CooperCorona, and raik383h as collaborators so we can see your repositories and evaluate your code.
 
