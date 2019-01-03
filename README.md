@@ -2,7 +2,8 @@
 The RAIK383H course project for TD Ameritrade during Spring semester 2019.
 
 # Running the C# API
-Open the `TDAProject.sln` solution file in Visual Studio. Right-click the Web project, and hit "Set as StartUp Project". Then hit the green run button in the toolbar. 
+Open the `TDAProject.sln` solution file in [Visual Studio](https://visualstudio.microsoft.com/downloads/). Right-click the `Web` project, and hit "Set as StartUp Project". Then hit the green run button in the toolbar. 
+> If you don't have the .NET Framework 4.7.1 SDK installed, you can download the developer pack from [here](https://dotnet.microsoft.com/download/visual-studio-sdks?utm_source=getdotnetsdk&utm_medium=referral) 
 
 # Running the Angular UI
 Make sure you have Node installed on your computer. You can test this by typing `node -v` in a terminal (we recommend either Git Base or Powershell for Windows). You should have version 8.9.x or 10.x.x installed. If the command is not recognized or you have an older version, download and install NodeJS from [here](https://nodejs.org/en/).  
@@ -20,7 +21,7 @@ Add npm global modules to your path. On Windows 10, search "path", which should 
 
 Run the UI project by typing `ng serve`. This command launches the server, watches your files, and rebuilds the app as you make changes to those files. Navigate to `http://localhost:4200/` to see your running front-end.
 
-For editing the Angular front-end, we recommend using Visual Studio Code.
+For editing the Angular front-end, we recommend using [Visual Studio Code](https://code.visualstudio.com/download).
 
 # GitHub Student
 GitHub offers unlimited private repositories to students. Your code is required to be in a private repository to adhere to UNL's academic integrity policy.
